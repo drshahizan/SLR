@@ -89,11 +89,7 @@ When writing a systematic literature review, your goal is to find _all_ of the r
 
 This is where your librarian will come in handy again. They should be able to help you formulate a detailed search strategy, and point you to all of the best databases for your topic.
 
-➡️ Read more on on [how to efficiently search research databases](https://paperpile.com/g/search-online-research-database/).
-
 The places to consider in your search are electronic scientific databases (the most popular are [PubMed](https://pubmed.ncbi.nlm.nih.gov/), [MEDLINE](https://www.nlm.nih.gov/medline/index.html), and [Embase](https://www.embase.com/landing?status=grey)), controlled clinical trial registers, non-English literature, raw data from published trials, references listed in primary sources, and unpublished sources known to experts in the field.
-
-➡️ Take a look at our list of [the top academic research databases](https://paperpile.com/g/academic-research-databases/).
 
 **Tip:** Don’t miss out on “gray literature.” You’ll improve the reliability of your findings by including it.
 
@@ -122,8 +118,6 @@ This should be performed by your two reviewers, using the criteria documented in
 2. **Screening** of the full-text articles of the selected studies
 
 Make sure reviewers keep a log of which studies they exclude, with reasons why.
-
-➡️ Visit our guide on [what is an abstract?](https://paperpile.com/g/what-is-the-abstract-of-a-paper/)
 
 #### 6. **Assess the quality of the studies** <a href="#num-6-assess-the-quality-of-the-studies" id="num-6-assess-the-quality-of-the-studies"></a>
 
@@ -219,5 +213,3 @@ A literature review simply provides a summary of the literature available on a t
 The final stage of conducting a systematic literature review is interpreting and presenting the results. It’s best to formulate a detailed plan for how you’ll present your systematic review results, guidelines can be found for example from the [Cochrane institute](https://training.cochrane.org/handbook/current/chapter-15).
 
 </details>
-
-\\
