@@ -173,7 +173,7 @@ Before writing your systematic literature review, you can register it with [OSF]
 
 <summary>🎯 Why do a systematic literature review?</summary>
 
-
+Systematic literature reviews are often found in clinical or healthcare settings. Medical professionals read systematic literature reviews to stay up-to-date in their field and granting agencies sometimes need them to make sure there’s justification for further research in an area.
 
 </details>
 
@@ -194,11 +194,13 @@ The first stage in carrying out a systematic literature review is to put togethe
 
 <summary>🏃🏿‍♂️ What should be included in a systematic literature review?</summary>
 
-*
-*
-*
-*
-*
+Your systematic review should include the following details:
+
+* the objectives of your project&#x20;
+* the specific methods and processes that you’ll use&#x20;
+* the eligibility criteria of the individual studies&#x20;
+* how you plan to extract data from individual studies&#x20;
+* which analyses you’re going to carry out
 
 </details>
 
@@ -206,7 +208,7 @@ The first stage in carrying out a systematic literature review is to put togethe
 
 <summary>🐾 What is the difference between a literature review and a systematic review?</summary>
 
-
+A literature review simply provides a summary of the literature available on a topic. A systematic review, on the other hand, is more than just a summary. It also includes an analysis and evaluation of existing research. Put simply, it's a study of studies.
 
 </details>
 
