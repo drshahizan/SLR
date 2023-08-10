@@ -10,6 +10,7 @@
   * [Focus](about-us/vision-mission-and-focus/focus.md)
 * [💖 Values](about-us/values.md)
 * [Introduction](about-us/introduction.md)
+* [How to do SLR](about-us/how-to-do-slr.md)
 
 ## Team
 
