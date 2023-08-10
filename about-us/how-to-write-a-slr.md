@@ -2,10 +2,9 @@
 
 ### **What is a systematic literature review?** <a href="#what-is-a-systematic-literature-review" id="what-is-a-systematic-literature-review"></a>
 
-{% hint style="indo" %}
+{% hint style="info" %}
 **Definition:** A **systematic** **literature review** is a summary, analysis, and evaluation of all the existing research on a well-formulated and specific question.
 {% endhint %}
-A **systematic** **literature review** is a summary, analysis, and evaluation of all the existing research on a well-formulated and specific question.
 
 Put simply, a systematic review is a study of studies that is popular in medical and healthcare research. In this guide, we will cover:
 
@@ -222,4 +221,4 @@ The final stage of conducting a systematic literature review is interpreting and
 
 </details>
 
-\
+\\
