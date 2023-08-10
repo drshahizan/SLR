@@ -181,6 +181,11 @@ Before writing your systematic literature review, you can register it with [OSF]
 
 <summary>🧗 What is the first stage of a systematic literature review?</summary>
 
+The first stage in carrying out a systematic literature review is to put together your team. You should employ multiple reviewers in order to minimize bias and strengthen analysis. A minimum of two is a good rule of thumb, with a third to serve as a tiebreaker if needed.
+
+
+
+\
 
 
 </details>
