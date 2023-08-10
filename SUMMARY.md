@@ -9,7 +9,7 @@
   * [Mission](about-us/vision-mission-and-focus/mission.md)
   * [Focus](about-us/vision-mission-and-focus/focus.md)
 * [💖 Values](about-us/values.md)
-* [Page](about-us/page.md)
+* [Introduction](about-us/introduction.md)
 
 ## Team
 
