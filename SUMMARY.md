@@ -11,6 +11,7 @@
 * [💖 Values](about-us/values.md)
 * [Introduction](about-us/introduction.md)
 * [How to do SLR](about-us/how-to-do-slr.md)
+* [Page](about-us/page.md)
 
 ## Team
 
