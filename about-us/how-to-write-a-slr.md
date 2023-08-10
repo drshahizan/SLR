@@ -13,8 +13,6 @@ Put simply, a systematic review is a study of studies that is popular in medical
 * the different types of systematic reviews
 * how to write a systematic literature review
 
-➡️ Visit our guide to the [best research databases for medicine and health](https://paperpile.com/g/research-databases-healthcare/) to find resources for your systematic review.
-
 ### **Where are systematic** literature **reviews used?** <a href="#where-are-systematic-literature-reviews-used" id="where-are-systematic-literature-reviews-used"></a>
 
 Systematic literature reviews can be utilized in various contexts, but they’re often relied on in clinical or healthcare settings.
