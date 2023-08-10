@@ -13,8 +13,6 @@ Put simply, a systematic review is a study of studies that is popular in medical
 * the different types of systematic reviews
 * how to write a systematic literature review
 
-Organize your papers in one place. Try Paperpile.No credit card needed[Get 30 days free](https://paperpile.com/g/systematic-literature-review/)
-
 ➡️ Visit our guide to the [best research databases for medicine and health](https://paperpile.com/g/research-databases-healthcare/) to find resources for your systematic review.
 
 ### **Where are systematic** literature **reviews used?** <a href="#where-are-systematic-literature-reviews-used" id="where-are-systematic-literature-reviews-used"></a>
@@ -87,8 +85,6 @@ The protocol for your systematic literature review should include:
 
 For a full guide on how to systematically develop your protocol, take a look at the [PRISMA checklist](http://www.prisma-statement.org/documents/PRISMA-P-checklist.pdf). PRISMA has been designed primarily to improve the reporting of systematic literature reviews and meta-analyses.
 
-Organize your papers in one place. Try Paperpile.No credit card needed[Get 30 days free](https://paperpile.com/g/systematic-literature-review/)
-
 #### 4. **Search for the literature** <a href="#num-4-search-for-the-literature" id="num-4-search-for-the-literature"></a>
 
 When writing a systematic literature review, your goal is to find _all_ of the relevant studies relating to your question, so you need to search _thoroughly_.
@@ -146,8 +142,6 @@ The kinds of questions you'll come up with are:
 Every step of the data extraction must be documented for transparency and replicability. Create a data extraction form and set your reviewers to work extracting data from the qualified studies.
 
 Here’s a [free detailed template](https://dal.ca.libguides.com/ld.php?content\_id=14553990) for recording data extraction, from Dalhousie University. It should be adapted to your specific question.
-
-Organize your papers in one place. Try Paperpile.No credit card needed[Get 30 days free](https://paperpile.com/g/systematic-literature-review/)
 
 #### 8. **Analyze the results** <a href="#num-8-analyze-the-results" id="num-8-analyze-the-results"></a>
 
