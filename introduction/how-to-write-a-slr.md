@@ -1,40 +1,8 @@
 # How to write a SLR
 
-### **What is a systematic literature review?** <a href="#what-is-a-systematic-literature-review" id="what-is-a-systematic-literature-review"></a>
-
-{% hint style="info" %}
-**Definition:** A **systematic** **literature review** is a summary, analysis, and evaluation of all the existing research on a well-formulated and specific question.
-{% endhint %}
-
-Put simply, a systematic review is a study of studies that is popular in medical and healthcare research. In this guide, we will cover:
-
-* the definition of a systematic literature review
-* the purpose of a systematic literature review
-* the different types of systematic reviews
-* how to write a systematic literature review
-
-### **Where are systematic** literature **reviews used?** <a href="#where-are-systematic-literature-reviews-used" id="where-are-systematic-literature-reviews-used"></a>
-
-Systematic literature reviews can be utilized in various contexts, but they’re often relied on in clinical or healthcare settings.
-
-Medical professionals read systematic literature reviews to stay up-to-date in their field, and granting agencies sometimes need them to make sure there’s justification for further research in an area. They can even be used as the starting point for developing clinical practice guidelines.
-
-### **What types of systematic** literature **review are there?** <a href="#what-types-of-systematic-literature-review-are-there" id="what-types-of-systematic-literature-review-are-there"></a>
-
-A classic systematic literature review can take different approaches:
-
-* **Effectiveness reviews** assess the extent to which a medical intervention or therapy achieves its intended effect. They’re the most common type of systematic literature review.
-* **Diagnostic test accuracy reviews** produce a summary of diagnostic test performance so that their accuracy can be determined before use by healthcare professionals.
-* **Experiential (qualitative) reviews** analyze human experiences in a cultural or social context. They can be used to assess the effectiveness of an intervention from a person-centric perspective.
-* **Costs/economics evaluation reviews** look at the cost implications of an intervention or procedure, to assess the resources needed to implement it.
-* **Etiology/risk reviews** usually try to determine to what degree a relationship exists between an exposure and a health outcome. This can be used to better inform healthcare planning and resource allocation.
-* **Psychometric reviews** assess the quality of health measurement tools so that the best instrument can be selected for use.
-* **Prevalence/incidence reviews** measure both the proportion of a population who have a disease, and how often the disease occurs.
-* **Prognostic reviews** examine the course of a disease and its potential outcomes.
-* **Expert opinion/policy reviews** are based around expert narrative or policy. They’re often used to complement, or in the absence of, quantitative data.
-* **Methodology systematic reviews** can be carried out to analyze any methodological issues in the design, conduct, or review of research studies.
-
-### **How to write a systematic** literature **review** <a href="#how-to-write-a-systematic-literature-review" id="how-to-write-a-systematic-literature-review"></a>
+{% embed url="https://youtu.be/AKKyeOJkv-c?si=mH5FmZC8UyKW3WpJ" %}
+How To Write A Research Paper: Introduction
+{% endembed %}
 
 Writing a systematic literature review can feel like an overwhelming undertaking. After all, they can often take 6 to 18 months to complete. Below we’ve prepared a step-by-step guide on how to write a systematic literature review.
 
@@ -62,7 +30,7 @@ Define your answerable question. Then ask yourself, “has someone written a sys
 
 You should formulate a “well-built clinical question.” This is the process of generating a good search question. To do this, run through PICO:
 
-PICO
+**PICO**
 
 * **Patient or Population or Problem/Disease**: who or what is the question about? Are there factors about them (e.g. age, race) that could be relevant to the question you’re trying to answer?
 * **Intervention**: which main intervention or treatment are you considering for assessment?
@@ -91,7 +59,9 @@ This is where your librarian will come in handy again. They should be able to he
 
 The places to consider in your search are electronic scientific databases (the most popular are [PubMed](https://pubmed.ncbi.nlm.nih.gov/), [MEDLINE](https://www.nlm.nih.gov/medline/index.html), and [Embase](https://www.embase.com/landing?status=grey)), controlled clinical trial registers, non-English literature, raw data from published trials, references listed in primary sources, and unpublished sources known to experts in the field.
 
+{% hint style="info" %}
 **Tip:** Don’t miss out on “gray literature.” You’ll improve the reliability of your findings by including it.
+{% endhint %}
 
 Don’t miss out on “gray literature” sources: those sources outside of the usual academic publishing environment. They include:
 
@@ -157,10 +127,6 @@ Apply appropriate grading of your evidence and consider the strength of your rec
 
 It’s best to formulate a detailed plan for how you’ll present your systematic review results. Take a look at these [guidelines for interpreting results](https://training.cochrane.org/handbook/current/chapter-15) from the Cochrane Institute.
 
-### **Registering your systematic** literature **review** <a href="#registering-your-systematic-literature-review" id="registering-your-systematic-literature-review"></a>
-
-Before writing your systematic literature review, you can register it with [OSF](https://osf.io/prereg/) for additional guidance along the way. You could also register your completed work with [PROSPERO](https://www.crd.york.ac.uk/PROSPERO/).
-
 ### Frequently Asked Questions about writing a systematic literature review <a href="#faq" id="faq"></a>
 
 <details>
@@ -176,11 +142,6 @@ Systematic literature reviews are often found in clinical or healthcare settings
 <summary>🧗 What is the first stage of a systematic literature review?</summary>
 
 The first stage in carrying out a systematic literature review is to put together your team. You should employ multiple reviewers in order to minimize bias and strengthen analysis. A minimum of two is a good rule of thumb, with a third to serve as a tiebreaker if needed.
-
-
-
-\
-
 
 </details>
 

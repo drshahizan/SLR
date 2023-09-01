@@ -2,12 +2,12 @@
 
 * [👋 Welcome!](README.md)
 
-## About us
+## Introduction
 
-* [Introduction](about-us/introduction.md)
-* [Understanding Systematic Literature Reviews](about-us/page.md)
-* [How to do SLR](about-us/how-to-do-slr.md)
-* [How to write a SLR](about-us/how-to-write-a-slr.md)
+* [Introduction](introduction/introduction.md)
+* [Understanding Systematic Literature Reviews](introduction/page.md)
+* [How to do SLR](introduction/how-to-do-slr.md)
+* [How to write a SLR](introduction/how-to-write-a-slr.md)
 
 ## Team
 
