@@ -11,3 +11,5 @@
 {% embed url="https://libguides.calstatela.edu/c.php?g=1069421&p=8731607" %}
 
 {% embed url="https://libguides.sph.uth.tmc.edu/ld.php?content_id=58979013" %}
+
+{% embed url="https://journals.sagepub.com/doi/full/10.1177/0739456X17723971" %}
