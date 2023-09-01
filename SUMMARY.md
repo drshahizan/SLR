@@ -9,9 +9,10 @@
 * [How to do SLR](introduction/how-to-do-slr.md)
 * [How to write a SLR](introduction/how-to-write-a-slr.md)
 
-## Team
+## PRISMA 2020
 
-* [👋 Meet the Team!](team/meet-the-team.md)
+* [Understanding PRISMA 2020](prisma-2020/understanding-prisma-2020.md)
+* [👋 Meet the Team!](prisma-2020/meet-the-team.md)
 
 ## Collaborating
 
