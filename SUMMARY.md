@@ -5,8 +5,8 @@
 ## About us
 
 * [Introduction](about-us/introduction.md)
+* [Understanding Systematic Literature Reviews](about-us/page.md)
 * [How to do SLR](about-us/how-to-do-slr.md)
-* [Page](about-us/page.md)
 * [How to write a SLR](about-us/how-to-write-a-slr.md)
 
 ## Team

@@ -1,6 +1,4 @@
-# Page
-
-## Systematic literature review <a href="#systematic-literature-review" id="systematic-literature-review"></a>
+# Understanding Systematic Literature Reviews
 
 All academic projects should include a review of current literature in order to provide the Reader with sufficient context to understand the detail of the project itself. The purpose of a _systematic literature review_ (SLR) is very different, however. Instead of providing background information, an SLR treats a body of written material as a data source in its own right which it exploits to answer one or more defined research questions. Like any other research methods, an SLR needs to be carefully planned and executed so that the results of the research are credible.
 

@@ -1,58 +1,81 @@
 # How to do SLR
 
-A systematic literature review is a form of secondary research-based scientific activity. In general, there are two forms of research: primary research and secondary research.
+A **systematic literature review** holds a pivotal role in research, especially in the context of secondary research-based scientific endeavors. To appreciate its importance fully, it's essential to distinguish between primary and secondary research methodologies and how they manifest in the realm of computer science.
 
-Primary research entails personally asking study the subject’s questions and requires approval. Primary research methods include interviews, internet surveys, and focus groups.
+**Primary research** in computer science often involves direct engagement with subjects. Researchers may seek approvals to conduct experiments, surveys, or interviews with individuals or groups. For instance, imagine a computer scientist designing a user interface for a new software application. They might conduct primary research by directly interacting with potential users to gather feedback on the interface's usability and functionality.
 
-Although, secondary research is acquiring data that already exists or relying on the results of other authors and researchers. It does not require approval and asks direct questions from human beings. Literature reviews and systematic literature reviews are forms of secondary research.
+In contrast, **secondary research** in computer science revolves around pre-existing data or leverages the findings of other scholars. This methodology doesn't require approvals or direct questioning of individuals. Within the realm of secondary research, there are various methods, with **literature reviews** and **systematic literature reviews** playing crucial roles.
 
-A literature review gives a high-level overview of research, a broad synopsis of what has previously been done and by whom, highlights what sections of study tell us about a topic, identifies gaps and conflicts in the area.
+A conventional **literature review** in computer science offers a panoramic view of prior research within a specific domain. It serves as a broad summary, highlighting the key studies, contributors, and findings within the field. For instance, a computer scientist conducting research on machine learning might perform a literature review to gather insights from existing studies on various machine learning algorithms and their applications.
 
-However, when the relevant literature is vast, systematic literature review follows systematic judgments that are fully informed and minimally prejudiced. A systematic literature review is a more transparent and less biased review that is utilized to address empirical questions.
+However, in cases where the body of literature in computer science becomes extensive and multifaceted, the systematic approach of a **systematic literature review** becomes indispensable. Here's why it's vital:
 
-The following are the key steps of a systematic literature review using Kitchenham’s methodology (1):
+1. **Systematic Analysis:** Unlike a standard literature review, a systematic review adheres to a structured and rigorous methodology. It employs systematic judgments based on predefined criteria, ensuring that the review process is comprehensive and objective. For instance, in computer science, a systematic literature review could be used to analyze a vast number of research papers on a specific machine learning technique, systematically evaluating their methodologies and results.
+2. **Comprehensiveness and Objectivity:** When confronted with a vast body of computer science literature, a systematic review aims for comprehensiveness. It strives to include all relevant studies, leaving no room for bias. This approach ensures that the review remains impartial and credible, offering a comprehensive understanding of the state of the art in a particular subfield of computer science.
+3. **Transparency and Replicability:** A systematic literature review in computer science adheres to a well-defined protocol, making its process transparent and replicable. This transparency enhances the reliability of its findings and allows other computer scientists to reproduce the review, validate the results, or build upon the existing knowledge.
 
-<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*x74ybVuwIIhtLh68G_2esQ.png" alt="Systematic Literature Review has the foloowing main steps: 1. Research Questions. 2. Definitions 3. Keywords 4. Databases 5. Develop Query for Search 6. Exclusion and Inclusion Criteria 7. Search Process 8. Data extraction with exclusion and inclusion criteria 9. Data Analysis and Results" width="563"><figcaption></figcaption></figure>
+A systematic literature review is not merely a summary of existing computer science research but rather a meticulous and impartial investigation that addresses empirical questions with clarity and objectivity. It serves as an invaluable resource for computer scientists navigating the extensive body of knowledge within their field, providing a foundation for evidence-based decision-making and further exploration.
 
-#### Step 1: Research Questions&#x20;
+### A Step-by-Step Guide Using Kitchenham's Methodology
 
-Please define the research questions for your study in the first step.
+<figure><img src="https://miro.medium.com/v2/resize:fit:1400/1*x74ybVuwIIhtLh68G_2esQ.png" alt="Systematic Literature Review has the foloowing main steps: 1. Research Questions. 2. Definitions 3. Keywords 4. Databases 5. Develop Query for Search 6. Exclusion and Inclusion Criteria 7. Search Process 8. Data extraction with exclusion and inclusion criteria 9. Data Analysis and Results" width="563"><figcaption><p>Kitchenham's SLR</p></figcaption></figure>
 
-#### Step 2: Definitions
+Kitchenham's systematic literature review methodology provides a structured framework for conducting comprehensive and methodical reviews of existing research. Here, we delve into the key steps of this methodology to offer a detailed understanding:
 
-In general, we use some formal words in our study, therefore it’s a good idea to provide definitions for these terms to make things clearer. It’s preferable to list them in a tabular style.
+**Step 1: Research Questions**
 
-#### Step 3: Keywords
+In the initial step of a **systematic literature review**, it's crucial to define the **research questions** that will guide your study. These questions serve as the foundation upon which the entire review is built.
 
-Make a list of the keywords you’ll use to search in the databases. If you’re using more than one language, it’s best to present the information in a tabular format for more simplification.
+**Step 2: Definitions**
 
-#### Step 4: Databases
+In most scholarly studies, specialized terminology is used. To ensure clarity and precision in your review, provide **definitions** for key terms used in your research. Organizing these definitions in a **tabular style** can enhance readability and comprehension.
 
-Mention the databases where you’ll be searching the query, such as IEEE Xplore, SCOPUS, Science Direct, ACM, Web Science, Google Scholar, and so on.
+**Step 3: Keywords**
 
-#### Step 5: Develop Query for Search&#x20;
+Compile a comprehensive list of **keywords** that you will use to search relevant databases. If your research involves multiple languages, consider presenting these keywords in a **tabular format** for ease of reference and simplification.
 
-The research inquiries can be answered by creating a search string based on the general principles of the search title. You must do advanced searches in each database and create a search string for each, allowing for more focused results based on the proposed keywords.
+**Step 4: Databases**
 
-#### Step 6. Mention the Exclusion and Inclusion Criteria:
+Specify the **databases** in which you intend to search for relevant literature. Common databases in computer science include IEEE Xplore, SCOPUS, Science Direct, ACM, Web Science, Google Scholar, and more. This step helps establish the scope of your search.
 
-For instance, the inclusion criteria may be: 1) Papers published between the years 20xx and 20xx. 2) Articles in journals and book chapters 3) documents written in a variety of languages. 4) Papers pertaining to specific databases. 5). Papers relating to certain keywords.
+**Step 5: Develop Query for Search**
 
-Examples of exclusion criteria include 1. Specific articles published over a specific time period. (For instance: Papers submitted before 2015 will not be considered). 2. Papers that aren’t accessible. 3. Papers that are devoid of information.
+To address your research questions, formulate a **search string** based on the general principles of your research topic. Conduct **advanced searches** in each selected database, creating a unique search string for each one. This approach leads to more focused results based on your proposed keywords.
 
-#### Step 7: Search Process
+**Step 6: Mention the Exclusion and Inclusion Criteria**
 
-Do the research in the databases. For example, After the collection of papers. You can mention the above research papers list in a spreadsheet or in another tool. The following are the examples of spreadsheet table headings: a) date of search, b) database code, c) database, d) search string, e) title, and f) abstract or something similar depending upon your study. Otherwise, you might do your literature review using a research paper management platform such as Mendeley, Papers, Qippa, Cita, Sente, and others.
+Define clear **exclusion and inclusion criteria** to filter the collected literature effectively. For example, inclusion criteria may include factors like publication years, document types, languages, specific databases, and relevant keywords. For instance, the inclusion criteria may be:&#x20;
 
-#### Step 8: Data Extraction with Exclusion and Inclusion Criteria
+1. Papers published between the years 20xx and 20xx.&#x20;
+2. Articles in journals and book chapters&#x20;
+3. documents written in a variety of languages.&#x20;
+4. Papers pertaining to specific databases.&#x20;
+5. Papers relating to certain keywords.
 
-1\. How many documents did you find in total as per inclusion and exclusion criteria?&#x20;
+Conversely, exclusion criteria could specify limitations such as publication date restrictions or inaccessible documents. Examples of exclusion criteria include&#x20;
 
-2\. How many publications fulfill the criteria for inclusion? and provide a summary.
+1. Specific articles published over a specific time period. (For instance: Papers submitted before 2015 will not be considered).&#x20;
+2. Papers that aren’t accessible.&#x20;
+3. Papers that are devoid of information.
 
-#### Step 9. Data Analysis and Results:&#x20;
+**Step 7: Search Process**
 
-In the mapping of Systematic Review, you can show the accepted papers from different databases. Additionally, you can show mapping as per different keywords that make sense for reviewers and readers. Furthermore, in the end, you have to map your results as per your research questions.
+Conduct thorough searches in the specified **databases** based on your search strings. After gathering a collection of relevant papers, you can organize them in a **spreadsheet** or a research paper management platform (e.g., Mendeley, Papers, Qippa, Cita, Sente) for further analysis. The spreadsheet can include categories like
+
+1. the date of search
+2. database code
+3. database details
+4. search strings,&#x20;
+5. the paper's title&#x20;
+6. abstract or something similar depending upon your study
+
+**Step 8: Data Extraction with Exclusion and Inclusion Criteria**
+
+At this stage, you'll determine how many documents meet your inclusion and exclusion criteria. Calculate the total number of documents found and then identify how many publications fulfill the inclusion criteria. Provide a **summary** of these findings, highlighting their relevance to your research.
+
+**Step 9: Data Analysis and Results**
+
+In the final steps of your systematic literature review, you will conduct **data analysis**. This may involve creating a **mapping** of the accepted papers from different databases and grouping them by **keywords** relevant to your research questions. This mapping helps both reviewers and readers understand the landscape of the literature. In the end, present your results in a way that aligns with your research questions, offering a clear and comprehensive overview of the existing knowledge in your field.
 
 If you want to read Systematic literature review guidelines yourself, then you can follow these papers:
 
