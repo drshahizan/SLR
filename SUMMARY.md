@@ -15,6 +15,7 @@
 * [Literature Review](literature-review-and-slr/literature-review.md)
 * [Comparison between SLR and Literature Reviews](literature-review-and-slr/comparison-between-slr-and-literature-reviews.md)
 * [Infographics](literature-review-and-slr/infographics.md)
+* [Converting from LR to SLR](literature-review-and-slr/converting-from-lr-to-slr.md)
 
 ## PRISMA 2020
 
