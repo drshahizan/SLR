@@ -1,5 +1,7 @@
 # Literature Review
 
+<figure><img src="https://www.lib.sfu.ca/system/files/37302/Community-Lit-Reviews-Graphic.png" alt="" width="563"><figcaption></figcaption></figure>
+
 A literature review is a critical and comprehensive summary and analysis of existing scholarly literature on a specific topic or research question. It is an essential component of academic research and serves several important purposes:
 
 1. **Understanding the Current State of Knowledge:** A literature review helps researchers gain a deep understanding of what has already been studied and published in their area of interest. It provides an overview of the key concepts, theories, and findings related to the topic.
