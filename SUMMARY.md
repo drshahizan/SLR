@@ -5,6 +5,7 @@
 ## Introduction
 
 * [Introduction](introduction/introduction.md)
+* [Comparison between SLR and Literature Reviews](introduction/comparison-between-slr-and-literature-reviews.md)
 * [Understanding Systematic Literature Reviews](introduction/page.md)
 * [How to do SLR](introduction/how-to-do-slr.md)
 * [How to write a SLR](introduction/how-to-write-a-slr.md)
