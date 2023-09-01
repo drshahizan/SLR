@@ -28,7 +28,7 @@ One of the key parts of an SLR is the definition of a research protocol, and one
 
 The British Medical Association defines a [27-step process](https://doi.org/10.1136/bmj.b2535) for conducting an SRL which is summarised in Fig. 2.
 
-<figure><img src="https://bdavison.napier.ac.uk/projects/img/BMA_SLR_process.jpg#centred" alt="BMA SLR process"><figcaption><p>Figure 2: BMA SLR process</p></figcaption></figure>
+<figure><img src="https://bdavison.napier.ac.uk/projects/img/BMA_SLR_process.jpg#centred" alt="BMA SLR process" width="563"><figcaption><p>Figure 2: BMA SLR process</p></figcaption></figure>
 
 ### Examples <a href="#examples" id="examples"></a>
 
