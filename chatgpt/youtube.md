@@ -1,0 +1,18 @@
+# Youtube
+
+In the pursuit of academic excellence, researchers and scholars often seek tools and guidance to streamline their research processes and enhance the quality of their work. In this collection, we present a diverse set of resources designed to support research endeavors and improve writing skills. These resources span from tutorials on harnessing artificial intelligence to efficiently produce systematic reviews to demonstrations of how AI can aid in data analysis and report writing. They offer valuable insights into leveraging technology to optimize various aspects of the research and writing process.
+
+| **Video Title**                                                                                                               | **Description**                                                                                   |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| [ChatGPT Tutorial: Write a systematic review under 1 hour](https://youtu.be/RgzBIQfi1nI)                                      | Demonstrates efficient use of ChatGPT for writing a systematic review in under an hour.           |
+| [Using ChatGPT for writing in research](https://youtu.be/tEdM9e\_ycFU)                                                        | Explores ChatGPT's utility in academic and scientific writing within research projects.           |
+| [Using ChatGPT to analyze data and write report](https://youtu.be/EI7Anh79oa0)                                                | Illustrates ChatGPT's role in data analysis and report creation, streamlining research tasks.     |
+| [Can ChatGPT Write Your Next Scientific Paper?](https://youtu.be/wnGPt030IG4)                                                 | Explores ChatGPT's potential in generating scientific paper content, discussing its capabilities. |
+| [Using ChatGPT to Generate and Export Data for Analysis](https://youtu.be/kcehSSwGABE)                                        | Demonstrates ChatGPT's assistance in data generation and export for research analysis.            |
+| [Watch Now and See if ChatGPT Can Write a Scientific Literature Review!](https://youtu.be/B9m-aV51Xdo)                        | Real-time demonstration of ChatGPT's ability to compose a scientific literature review.           |
+| [Synthesis table for literature reviews](https://youtu.be/WG6uKQjOhaU)                                                        | Provides guidance on creating synthesis tables for organizing and summarizing research findings.  |
+| [Creating a research proposal using ChatGPT in 5 minutes. Results checked for plagiarism later](https://youtu.be/dPIkvjFnTkw) | Efficiently creates a research proposal with ChatGPT, emphasizing later plagiarism checks.        |
+| [How ChatGPT Can Improve Your Writing: A Hands-On Demonstration](https://youtu.be/lSpT87IdFoE)                                | Offers a hands-on demonstration of ChatGPT's impact on enhancing writing skills.                  |
+| [How to write Introduction part of your Research Paper using Chat GPT & QuillBot](https://youtu.be/mAsI\_yDUIZk)              | Guides writing the introduction section of a research paper with ChatGPT and QuillBot.            |
+
+ChatGPT represents a significant advancement in natural language understanding and generation and has a wide range of applications in research, writing, and content generation across various domains. These resources provide valuable insights and practical demonstrations of how ChatGPT can be a valuable tool for researchers and writers.

@@ -16,10 +16,12 @@
 * [PRISMA Key Documents](prisma-2020/prisma-key-documents.md)
 * [Sample SLR Articles](prisma-2020/sample-slr-articles.md)
 
-## Collaborating
+## ChatGPT
 
-* [🤝 How we Work Together](collaborating/how-we-work-together.md)
-* [📅 Meetings](collaborating/meetings.md)
+* [ChatGPT's Role in SLR](chatgpt/chatgpts-role-in-slr.md)
+* [Youtube](chatgpt/youtube.md)
+* [🤝 How we Work Together](chatgpt/how-we-work-together.md)
+* [📅 Meetings](chatgpt/meetings.md)
 
 ## Policies
 
