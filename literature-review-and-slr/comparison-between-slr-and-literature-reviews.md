@@ -1,5 +1,7 @@
 # Comparison between SLR and Literature Reviews
 
+<figure><img src="http://s3.amazonaws.com/libapps/accounts/32893/images/SRvsMAvsR.JPG" alt="" width="563"><figcaption></figcaption></figure>
+
 In the world of academic research, there are two main ways to dig into existing studies and build a solid foundation for your own research: Systematic Literature Reviews (SLRs) and Literature Reviews. These approaches have distinct purposes and methods. Let's take a simple look at how they compare:
 
 | Aspect                           | Literature Review                                                                                                                                                | Systematic Literature Review (SLR)                                                                                                                                     |

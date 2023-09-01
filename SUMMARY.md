@@ -5,11 +5,16 @@
 ## Introduction
 
 * [Introduction](introduction/introduction.md)
-* [Comparison between SLR and Literature Reviews](introduction/comparison-between-slr-and-literature-reviews.md)
 * [Understanding Systematic Literature Reviews](introduction/page.md)
 * [How to do SLR](introduction/how-to-do-slr.md)
 * [How to write a SLR](introduction/how-to-write-a-slr.md)
 * [Useful links](introduction/useful-links.md)
+
+## Literature Review and SLR
+
+* [Literature Review](literature-review-and-slr/literature-review.md)
+* [Comparison between SLR and Literature Reviews](literature-review-and-slr/comparison-between-slr-and-literature-reviews.md)
+* [Page](literature-review-and-slr/page.md)
 
 ## PRISMA 2020
 
@@ -21,9 +26,3 @@
 
 * [ChatGPT's Role in SLR](chatgpt/chatgpts-role-in-slr.md)
 * [Youtube](chatgpt/youtube.md)
-* [🤝 How we Work Together](chatgpt/how-we-work-together.md)
-* [📅 Meetings](chatgpt/meetings.md)
-
-## Policies
-
-* [🌴 Requesting Time Off](policies/requesting-time-off.md)
