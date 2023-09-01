@@ -79,18 +79,11 @@ In the final steps of your systematic literature review, you will conduct **data
 
 If you want to read Systematic literature review guidelines yourself, then you can follow these papers:
 
-1\. B. Kitchenham, S. Charters, Guidelines for Performing Systematic Literature Reviews in Software Engineering, Tech. rep., Technical report, EBSE Technical Report EBSE-2007–01, 2007.
-
-2\. K. Petersen, R. Feldt, S. Mujtaba, M. Mattsson, Systematic mapping studies in software engineering, in: 12th International Conference on Evaluation and Assessment in Software Engineering, vol. 17, 2008, p. 1.
-
-3\. D. Budgen, M. Turner, P. Brereton, B. Kitchenham, Using mapping studies in software engineering, in: Proceedings of PPIG, vol. 8, 2008, pp. 195–204.
-
-4\. H. Arksey, L. O’Malley, Scoping studies: towards a methodological framework, Int. J. Soc. Res. Meth. 8 (1) (2005) 19–32.
-
-5\. J. Biolchini, P.G. Mian, A.C.C. Natali, G.H. Travassos, Systematic review in software engineering, System Engineering and Computer Science Department COPPE/UFRJ, Technical Report ES vol. 679(05), 2005, p. 45.
-
-6\. M. Petticrew, H. Roberts, Systematic Reviews in the Social Sciences: A Practical Guide, John Wiley & Sons, 2008.
-
-7\. B. Kitchenham, P. Brereton, A systematic review of systematic review process research in software engineering, Inf. Softw. Technol. 55 (12) (2013) 2049– 2075.
-
-8\. Kai Petersen, Sairam Vakkalanka, Ludwik Kuzniarz, Guidelines for conducting systematic mapping studies in software engineering: An update, Information and Software Technology, Volume 64, 2015.\
+1. B. Kitchenham, S. Charters, _Guidelines for Performing Systematic Literature Reviews in Software Engineering_, Tech. rep., Technical report, EBSE Technical Report EBSE-2007–01, 2007.
+2. K. Petersen, R. Feldt, S. Mujtaba, M. Mattsson, _Systematic mapping studies in software engineering_, in: _12th International Conference on Evaluation and Assessment in Software Engineering_, vol. 17, 2008, p. 1.
+3. D. Budgen, M. Turner, P. Brereton, B. Kitchenham, _Using mapping studies in software engineering_, in: _Proceedings of PPIG_, vol. 8, 2008, pp. 195–204.
+4. H. Arksey, L. O’Malley, _Scoping studies: towards a methodological framework_, _Int. J. Soc. Res. Meth._ 8 (1) (2005) 19–32.
+5. J. Biolchini, P.G. Mian, A.C.C. Natali, G.H. Travassos, _Systematic review in software engineering_, _System Engineering and Computer Science Department COPPE/UFRJ, Technical Report ES_ vol. 679(05), 2005, p. 45.
+6. M. Petticrew, H. Roberts, _Systematic Reviews in the Social Sciences: A Practical Guide_, John Wiley & Sons, 2008.
+7. B. Kitchenham, P. Brereton, _A systematic review of systematic review process research in software engineering_, _Inf. Softw. Technol._ 55 (12) (2013) 2049–2075.
+8. Kai Petersen, Sairam Vakkalanka, Ludwik Kuzniarz, _Guidelines for conducting systematic mapping studies in software engineering: An update_, _Information and Software Technology_, _Volume 64_, 2015.
