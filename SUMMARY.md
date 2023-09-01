@@ -12,6 +12,7 @@
 ## PRISMA 2020
 
 * [Understanding PRISMA 2020](prisma-2020/understanding-prisma-2020.md)
+* [PRISMA Key Documents](prisma-2020/prisma-key-documents.md)
 * [👋 Meet the Team!](prisma-2020/meet-the-team.md)
 
 ## Collaborating

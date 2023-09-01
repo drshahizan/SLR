@@ -4,7 +4,7 @@ description: A Framework for Comprehensive Literature Reviews
 
 # Understanding PRISMA 2020
 
-The **PRISMA 2020** (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) is a robust framework designed to guide researchers in conducting systematic reviews. It goes beyond the scope of regular literature reviews, which are essentially summaries of existing research on a particular topic. In contrast, a systematic review is a comprehensive and methodical exploration of the literature, specifically geared towards answering a well-defined research question.
+The **PRISMA 2020** ([Preferred Reporting Items for Systematic Reviews and Meta-Analyses](https://www.prisma-statement.org/)) is a robust framework designed to guide researchers in conducting systematic reviews. It goes beyond the scope of regular literature reviews, which are essentially summaries of existing research on a particular topic. In contrast, a systematic review is a comprehensive and methodical exploration of the literature, specifically geared towards answering a well-defined research question.
 
 **Key Characteristics of Systematic Reviews**:
 
