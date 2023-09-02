@@ -103,3 +103,37 @@ Collaboration and documentation are key to a successful literature review:
 * **Continuous Updates**: Continuously update your repository with new findings, data, code changes, and documents as your literature review progresses. Use commit messages to describe the changes made.
 
 By following these steps, you'll have a well-structured GitHub repository for your systematic literature review, making it easier to collaborate, track changes, and share your research progress with others. Remember to adhere to ethical guidelines and respect copyright when handling literature review materials.
+
+```
+📁group_id
+├── 📄index.php
+├── 📁css
+│   ├── 📄bootstrap.min.css
+│   └── 📄style.css
+├── 📁js
+│   ├── 📄jquery.min.js
+│   └── 📄bootstrap.min.js
+├── 📁includes
+│   ├── 📄config.php
+│   ├── 📄functions.php
+│   └── 📄header.php
+├── 📁images
+│   ├── 📄banner.jpg
+│   └── 📄logo.png
+├── 📁pages
+│   ├── 📄about.php
+│   ├── 📄events.php
+│   ├── 📄gallery.php
+│   ├── 📄news.php
+│   ├── 📄profile.php
+│   └── 📄search.php
+├── 📁reporting
+│   ├── 📄daily-report.php
+│   ├── 📄monthly-report.php
+│   └── 📄yearly-report.php
+└── 📁database
+    ├── 📄db_config.php
+    ├── 📄db_create.php
+    ├── 📄db_seed.php
+    └── 📄db_connection.php
+```
