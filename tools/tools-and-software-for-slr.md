@@ -15,10 +15,13 @@ A systematic literature review (SLR) involves a comprehensive and structured app
 3. **Systematic Review Software**:
    * [**Covidence**](https://www.covidence.org/): Specifically designed for managing systematic reviews, it facilitates screening, data extraction, and collaboration.
    * [**Rayyan**](https://www.rayyan.ai/): A web-based tool for systematic reviewers to screen and collaborate on study selection.
-   * [**DistillerSR**](https://www.distillersr.com/products/distillersr-systematic-review-software): Comprehensive systematic review software with features for data extraction and quality assessment.
+   * [**DistillerSR**](https://www.distillersr.com/products/distillersr-systematic-review-software): DistillerSR is another proprietary platform that excels in meeting the essential criteria for systematic review work. Researchers often opt for DistillerSR due to its robust capabilities and user-friendly interface.
 4. **Screening and Data Extraction Tools**:
-   * [**EPPI-Reviewer**](https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=2914): A tool for systematic review management, data extraction, and synthesis.
-   * [**JBI SUMARI**](https://sumari.jbi.global/): Software for systematic review, meta-analysis, and evidence synthesis.
+   * [**EPPI-Reviewer**](https://eppi.ioe.ac.uk/cms/Default.aspx?tabid=2914): A tool for systematic review management, data extraction, and synthesis. It offers a suite of features that streamline the review process, ensuring thorough and accurate results.
+   * [**JBI SUMARI**](https://sumari.jbi.global/): Software for systematic review, meta-analysis, and evidence synthesis. JBI SUMARI is a proprietary systematic review software known for its comprehensive functionality and user-friendly interface. Researchers favor it for its ability to handle various types of systematic reviews effectively.
+   * [**Giotto Compliance**](https://fern.ai/): Giotto Compliance is a proprietary, web-based systematic review tool known for its comprehensive feature set, making it a preferred choice among researchers for conducting systematic reviews with high precision.
+   * [**Nested Knowledge**](https://nested-knowledge.com/): Nested Knowledge is recognized for its effectiveness in handling complex systematic reviews. Its inclusion of a wide array of key features makes it a valuable tool for researchers tackling intricate research questions.
+   * [**LitStream**](https://www.icf.com/work/research-evaluation/litstream-systematic-literature-review): LitStream stands out for its capacity to support researchers in conducting systematic reviews efficiently. Its incorporation of crucial features facilitates the review process and contributes to the quality of the results.
 5. **Citation Analysis and Visualization Tools**:
    * [**VOSviewer**](https://www.vosviewer.com/): Used to visualize and analyze bibliographic data and co-citation networks.
    * [**CiteSpace**](https://citespace.podia.com/): A tool for visualizing and analyzing trends, patterns, and emerging themes in scientific literature.
