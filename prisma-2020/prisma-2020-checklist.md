@@ -21,3 +21,9 @@ Here are some key areas covered by the PRISMA 2020 Checklist:
 The PRISMA 2020 Checklist is a valuable resource for authors and researchers undertaking systematic reviews and meta-analyses, as it helps ensure that their research is transparent, reproducible, and of high quality. Adhering to these guidelines enhances the clarity and reliability of systematic review publications, ultimately contributing to evidence-based decision-making in various fields of research.
 
 {% embed url="http://prisma-statement.org/documents/PRISMA_2020_checklist.pdf" %}
+[PRISMA 2020 Checklist](http://prisma-statement.org/documents/PRISMA\_2020\_checklist.pdf)
+{% endembed %}
+
+{% embed url="http://prisma-statement.org/documents/PRISMA_2020_expanded_checklist.pdf" %}
+[PRISMA 2020 Expanded Checklist](http://prisma-statement.org/documents/PRISMA\_2020\_expanded\_checklist.pdf)
+{% endembed %}
