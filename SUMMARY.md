@@ -26,7 +26,8 @@
 * [IoT Case Study](prisma-2020/iot-case-study.md)
 * [Sample SLR Articles](prisma-2020/sample-slr-articles.md)
 
-## ChatGPT
+## Tools
 
-* [ChatGPT's Role in SLR](chatgpt/chatgpts-role-in-slr.md)
-* [Youtube](chatgpt/youtube.md)
+* [Tools and Software for SLR](tools/tools-and-software-for-slr.md)
+* [ChatGPT's Role in SLR](tools/chatgpts-role-in-slr.md)
+* [Youtube](tools/youtube.md)
