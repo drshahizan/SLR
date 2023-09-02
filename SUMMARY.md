@@ -22,6 +22,8 @@
 * [Understanding PRISMA 2020](prisma-2020/understanding-prisma-2020.md)
 * [PRISMA 2020 Checklist](prisma-2020/prisma-2020-checklist.md)
 * [PRISMA Key Documents](prisma-2020/prisma-key-documents.md)
+* [A step-by-step process](prisma-2020/a-step-by-step-process.md)
+* [IoT Case Study](prisma-2020/iot-case-study.md)
 * [Sample SLR Articles](prisma-2020/sample-slr-articles.md)
 
 ## ChatGPT
