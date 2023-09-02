@@ -28,3 +28,6 @@ Systematic Literature Reviews (SLRs) are a cornerstone of rigorous academic rese
 6.  [**Rethlefsen M, Kirtley S, Waffenschmidt S, et al. PRISMA-S: An Extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews.**](https://osf.io/sfc38/)
 
     PRISMA-S is an extension to the PRISMA statement, focusing on reporting the literature search process within systematic reviews. This document provides guidance on transparently reporting literature searches.\
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)

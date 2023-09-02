@@ -89,3 +89,6 @@ By following these steps, you can convert a traditional Literature Review into a
 * **Conversion to SLR:** The SLR adhered to established reporting standards like PRISMA, ensuring transparency, reproducibility, and adherence to best practices in systematic reviews.
 
 By following these steps in the conversion process, the researcher transformed an initial Literature Review on IoT into a well-structured and rigorous Systematic Literature Review, enhancing the quality and credibility of their research synthesis in the field of IoT.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)

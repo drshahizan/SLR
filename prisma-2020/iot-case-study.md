@@ -61,3 +61,6 @@ Begin by clearly defining your research question: "What are the key security cha
   * **Appendices**: Include any supplementary information, such as the full list of included studies and data extraction forms.
 
 Adhering to the PRISMA 2020 guidelines ensures that your systematic review is comprehensive, transparent, and methodologically sound, providing valuable insights into the state of IoT security in healthcare applications within the field of computer science.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)

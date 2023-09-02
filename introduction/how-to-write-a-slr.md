@@ -174,3 +174,6 @@ A literature review simply provides a summary of the literature available on a t
 The final stage of conducting a systematic literature review is interpreting and presenting the results. It’s best to formulate a detailed plan for how you’ll present your systematic review results, guidelines can be found for example from the [Cochrane institute](https://training.cochrane.org/handbook/current/chapter-15).
 
 </details>
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)

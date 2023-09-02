@@ -27,3 +27,6 @@ The PRISMA 2020 Checklist is a valuable resource for authors and researchers und
 {% embed url="http://prisma-statement.org/documents/PRISMA_2020_expanded_checklist.pdf" %}
 [PRISMA 2020 Expanded Checklist](http://prisma-statement.org/documents/PRISMA\_2020\_expanded\_checklist.pdf)
 {% endembed %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)

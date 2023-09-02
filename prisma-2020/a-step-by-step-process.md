@@ -27,3 +27,6 @@ Using the PRISMA 2020 (Preferred Reporting Items for Systematic Reviews and Meta
 **12. Publish and Share:** Once your systematic review or meta-analysis is accepted and published, consider sharing it on platforms like PROSPERO or other relevant databases for greater visibility.
 
 Throughout the process, maintaining transparency, consistency, and adherence to the PRISMA 2020 guidelines will help ensure that your systematic review or meta-analysis is of high quality and can be effectively used by researchers, policymakers, and practitioners in your field.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)

@@ -41,3 +41,6 @@ As well as articles such as those cited above which provide explicit guidance on
 *   [Machine learning applications in urban building energy performance forecasting: A systematic review](https://doi.org/10.1016/j.rser.2020.110287)
 
     > Focusing on an urban-scale, this study systematically reviews 70 journal articles, published in the field of building energy performance forecasting between 2015 and 2018. The recent literature have been categorized according to five criteria: 1. Learning Method, 2. Building Type, 3. Energy Type, 4. Input Data, and 5. Time-scale.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)

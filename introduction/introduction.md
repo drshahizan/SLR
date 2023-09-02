@@ -60,3 +60,6 @@ Systematic Literature Reviews (SLRs) are valuable in various scenarios within co
 | 10. **Enhancing Big Data Analytics**                      | Data scientists want to improve their big data analysis methods.                   | Conducting an **SLR** on big data analytics techniques to determine which algorithms and tools are most effective for specific tasks. |
 
 In each of these case studies, conducting a systematic literature review is critical to ensuring that decisions and research directions are grounded in existing knowledge, best practices, and the current state of the field in computer science. SLRs provide a structured and evidence-based approach to gather and synthesize relevant information, making them invaluable in these scenarios.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)

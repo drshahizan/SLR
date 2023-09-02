@@ -87,3 +87,6 @@ If you want to read Systematic literature review guidelines yourself, then you c
 6. M. Petticrew, H. Roberts, _Systematic Reviews in the Social Sciences: A Practical Guide_, John Wiley & Sons, 2008.
 7. B. Kitchenham, P. Brereton, _A systematic review of systematic review process research in software engineering_, _Inf. Softw. Technol._ 55 (12) (2013) 2049–2075.
 8. Kai Petersen, Sairam Vakkalanka, Ludwik Kuzniarz, _Guidelines for conducting systematic mapping studies in software engineering: An update_, _Information and Software Technology_, _Volume 64_, 2015.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)

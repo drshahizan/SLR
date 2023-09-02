@@ -15,3 +15,6 @@ In the world of academic research, there are two main ways to dig into existing 
 | **Bias and Reproducibility**     | May be susceptible to selection bias and subjectivity.                                                                                                           | Aims to minimize bias through rigorous methodology, enhancing reproducibility and transparency.                                                                        |
 
 These differences highlight how SLRs differ from traditional Literature Reviews in terms of their research objectives, methodology, and reporting standards. Researchers choose between these approaches based on the specific goals of their research and the depth of analysis required.
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)

@@ -15,3 +15,6 @@
 {% embed url="https://libguides.sph.uth.tmc.edu/ld.php?content_id=58979013" %}
 
 {% embed url="https://journals.sagepub.com/doi/full/10.1177/0739456X17723971" %}
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+![](https://hit.yhype.me/github/profile?user_id=81284918)
