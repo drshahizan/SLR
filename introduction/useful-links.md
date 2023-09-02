@@ -1,5 +1,7 @@
 # Useful links
 
+{% embed url="https://bsj.uobaghdad.edu.iq/index.php/BSJ/onlinefirst/view/8544" %}
+
 {% embed url="https://peerj.com/articles/cs-661/" %}
 
 {% embed url="https://guides.library.unr.edu/c.php?g=51145&p=7853775" %}
