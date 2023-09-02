@@ -30,7 +30,9 @@ Systematic Literature Reviews (SLRs) are valuable in computer science research i
 
 SLRs are essential in computer science research when you need to establish a knowledge baseline, make informed decisions, identify gaps, validate your research methods, or ensure compliance with best practices and standards. They help researchers stay current with the ever-evolving field of computer science and contribute to the rigor and validity of their work.
 
-
+{% embed url="https://youtu.be/l6aVyYHb25E?si=Sq21OBOmMw5ftJsx" %}
+What is a systematic review?
+{% endembed %}
 
 **Table 1: Types of Systematic Reviews**
 
