@@ -2,6 +2,10 @@
 
 All academic projects should include a review of current literature in order to provide the Reader with sufficient context to understand the detail of the project itself. The purpose of a _systematic literature review_ (SLR) is very different, however. Instead of providing background information, an SLR treats a body of written material as a data source in its own right which it exploits to answer one or more defined research questions. Like any other research methods, an SLR needs to be carefully planned and executed so that the results of the research are credible.
 
+{% embed url="https://youtu.be/WUErib-fXV0?si=6cUHhfcw4rXbQhtT" %}
+Conducting a Systematic Literature Review
+{% endembed %}
+
 ### When to use <a href="#when-to-use" id="when-to-use"></a>
 
 SLR is the appropriate method when a research question can be answered by interrogating the literature. For example, if the objective is to pin down an objective definition of a developing technological area, an SLR could be used to identify its core characteristics by identifying trends or correlations in published articles. Alternatively, an examination of the literature could help to identify the most effective technical approach to solving a particular class of problem. In this type of research, each published article constitutes a single data point and the review amounts to a statistical examination of the whole dataset.
