@@ -93,6 +93,32 @@ Now that your repository is created, it's time to structure it for your literatu
 4. **Code**: If you have scripts or code used in your analysis, create a folder named `code/` to house them.
 5. **References**: Consider creating a folder named `references/` where you can store reference management files, citation styles, or any related reference materials.
 
+```
+📁 AI-in-Healthcare-Literature-Review/
+│
+├── 📄 README.md                 # Overview of the literature review project
+│
+├── 📁 data/                     # Folder for datasets and data-related files
+│   ├── 📄 dataset1.csv
+│   ├── 📄 dataset2.xlsx
+│   └── 📄 data_processing.py    # Python script for data preprocessing
+│
+├── 📁 documents/                # Folder for literature review articles and documents
+│   ├── 📄 Article1.pdf
+│   ├── 📄 Article2.docx
+│   └── 📁 reports/
+│       ├── Report1.pdf
+│       └── Report2.docx
+│
+├── 📁 code/                     # Folder for scripts and code used in the review
+│   ├── 📄 analysis_script.py    # Python script for data analysis
+│   └── 📄 data_extraction_script.py
+│
+└── 📁 references/               # Folder for reference management files
+    ├── 📄 citations.bib         # BibTeX file for managing citations
+    └── 📄 citation_styles/      # Folder for citation style files (e.g., APA, IEEE)
+```
+
 #### **Step 3: Collaborate and Document Your Work**
 
 Collaboration and documentation are key to a successful literature review:
