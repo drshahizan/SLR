@@ -1,4 +1,4 @@
-# PRISMA Key Documents
+# 🔑 PRISMA Key Documents
 
 The PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) key documents serve as essential resources for researchers and scholars engaged in conducting systematic reviews—a rigorous method of synthesizing and summarizing existing research. These documents provide structured guidelines and checklists to ensure the systematic review process is transparent, comprehensive, and adheres to high research standards. Here's an overview of the PRISMA key documents:
 
@@ -6,5 +6,4 @@ The PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) 
 
 These PRISMA key documents offer valuable guidance and resources for researchers engaged in systematic reviews, ensuring transparency and adherence to best practices in the review process. For more information on creating a PRISMA flow diagram, you can visit the [Creating a PRISMA flow diagram guide](https://guides.lib.unc.edu/prisma).
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

@@ -1,4 +1,4 @@
-# Literature Review
+# 📑 Literature Review
 
 <figure><img src="https://www.lib.sfu.ca/system/files/37302/Community-Lit-Reviews-Graphic.png" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -35,5 +35,4 @@ Despite these similarities, there are significant differences between traditiona
 
 In summary, while both traditional literature reviews and systematic literature reviews share the goal of reviewing and analyzing existing literature, systematic reviews are characterized by a more rigorous and structured methodology, while traditional reviews may be less formal and systematic in their approach. The choice between the two depends on the research objectives and the level of rigor required for the study.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

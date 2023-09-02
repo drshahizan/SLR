@@ -1,4 +1,4 @@
-# Youtube
+# 🎥 Youtube
 
 In the pursuit of academic excellence, researchers and scholars often seek tools and guidance to streamline their research processes and enhance the quality of their work. In this collection, we present a diverse set of resources designed to support research endeavors and improve writing skills. These resources span from tutorials on harnessing artificial intelligence to efficiently produce systematic reviews to demonstrations of how AI can aid in data analysis and report writing. They offer valuable insights into leveraging technology to optimize various aspects of the research and writing process.
 
@@ -17,5 +17,4 @@ In the pursuit of academic excellence, researchers and scholars often seek tools
 
 ChatGPT represents a significant advancement in natural language understanding and generation and has a wide range of applications in research, writing, and content generation across various domains. These resources provide valuable insights and practical demonstrations of how ChatGPT can be a valuable tool for researchers and writers.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

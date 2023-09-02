@@ -1,4 +1,4 @@
-# A step-by-step process
+# ♨ A step-by-step process
 
 Using the PRISMA 2020 (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines involves a step-by-step process to ensure that your systematic review or meta-analysis is reported transparently and comprehensively. Below are the key steps to follow when using PRISMA 2020:
 
@@ -28,5 +28,4 @@ Using the PRISMA 2020 (Preferred Reporting Items for Systematic Reviews and Meta
 
 Throughout the process, maintaining transparency, consistency, and adherence to the PRISMA 2020 guidelines will help ensure that your systematic review or meta-analysis is of high quality and can be effectively used by researchers, policymakers, and practitioners in your field.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

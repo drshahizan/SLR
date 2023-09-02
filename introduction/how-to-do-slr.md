@@ -1,4 +1,4 @@
-# How to do SLR
+# 🌟 How to do SLR
 
 A **systematic literature review** holds a pivotal role in research, especially in the context of secondary research-based scientific endeavors. To appreciate its importance fully, it's essential to distinguish between primary and secondary research methodologies and how they manifest in the realm of computer science.
 
@@ -44,18 +44,18 @@ To address your research questions, formulate a **search string** based on the g
 
 **Step 6: Mention the Exclusion and Inclusion Criteria**
 
-Define clear **exclusion and inclusion criteria** to filter the collected literature effectively. For example, inclusion criteria may include factors like publication years, document types, languages, specific databases, and relevant keywords. For instance, the inclusion criteria may be:&#x20;
+Define clear **exclusion and inclusion criteria** to filter the collected literature effectively. For example, inclusion criteria may include factors like publication years, document types, languages, specific databases, and relevant keywords. For instance, the inclusion criteria may be:
 
-1. Papers published between the years 20xx and 20xx.&#x20;
-2. Articles in journals and book chapters&#x20;
-3. documents written in a variety of languages.&#x20;
-4. Papers pertaining to specific databases.&#x20;
+1. Papers published between the years 20xx and 20xx.
+2. Articles in journals and book chapters
+3. documents written in a variety of languages.
+4. Papers pertaining to specific databases.
 5. Papers relating to certain keywords.
 
-Conversely, exclusion criteria could specify limitations such as publication date restrictions or inaccessible documents. Examples of exclusion criteria include&#x20;
+Conversely, exclusion criteria could specify limitations such as publication date restrictions or inaccessible documents. Examples of exclusion criteria include
 
-1. Specific articles published over a specific time period. (For instance: Papers submitted before 2015 will not be considered).&#x20;
-2. Papers that aren’t accessible.&#x20;
+1. Specific articles published over a specific time period. (For instance: Papers submitted before 2015 will not be considered).
+2. Papers that aren’t accessible.
 3. Papers that are devoid of information.
 
 **Step 7: Search Process**
@@ -65,8 +65,8 @@ Conduct thorough searches in the specified **databases** based on your search st
 1. the date of search
 2. database code
 3. database details
-4. search strings,&#x20;
-5. the paper's title&#x20;
+4. search strings,
+5. the paper's title
 6. abstract or something similar depending upon your study
 
 **Step 8: Data Extraction with Exclusion and Inclusion Criteria**
@@ -88,5 +88,4 @@ If you want to read Systematic literature review guidelines yourself, then you c
 7. B. Kitchenham, P. Brereton, _A systematic review of systematic review process research in software engineering_, _Inf. Softw. Technol._ 55 (12) (2013) 2049–2075.
 8. Kai Petersen, Sairam Vakkalanka, Ludwik Kuzniarz, _Guidelines for conducting systematic mapping studies in software engineering: An update_, _Information and Software Technology_, _Volume 64_, 2015.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

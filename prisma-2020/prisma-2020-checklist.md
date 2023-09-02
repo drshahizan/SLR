@@ -1,4 +1,4 @@
-# PRISMA 2020 Checklist
+# ✅ PRISMA 2020 Checklist
 
 The PRISMA 2020 (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) Checklist is a set of guidelines and recommendations developed to help researchers and authors improve the reporting of systematic reviews and meta-analyses in various fields, including healthcare, social sciences, and other research domains. PRISMA 2020 is an update to the original PRISMA guidelines, which were first introduced in 2009.
 
@@ -28,5 +28,4 @@ The PRISMA 2020 Checklist is a valuable resource for authors and researchers und
 [PRISMA 2020 Expanded Checklist](http://prisma-statement.org/documents/PRISMA\_2020\_expanded\_checklist.pdf)
 {% endembed %}
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

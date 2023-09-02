@@ -1,4 +1,4 @@
-# Tools and Software for SLR
+# 🛠 Tools and Software for SLR
 
 A systematic literature review (SLR) involves a comprehensive and structured approach to searching, selecting, and analyzing relevant research papers. To facilitate this process, various tools and software can be used to streamline tasks. Here is a list of tools commonly used for conducting a systematic literature review:
 
@@ -33,5 +33,4 @@ A systematic literature review (SLR) involves a comprehensive and structured app
 
 The choice of tools depends on your specific needs, budget, and preferences. Many researchers use a combination of these tools to conduct a systematic literature review efficiently and accurately.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

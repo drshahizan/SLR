@@ -1,5 +1,7 @@
 # 👋 Welcome!
 
+<figure><img src=".gitbook/assets/slr1.png" alt=""><figcaption></figcaption></figure>
+
 Computer science is a dynamic and rapidly evolving field at the forefront of technological advancement. This systematic literature review (SLR) offers a comprehensive analysis of recent research in computer science, providing insights into the state of the field as of 2023.
 
 Utilizing a systematic approach, this review encompasses a wide spectrum of computer science subdisciplines, including artificial intelligence, machine learning, software engineering, cybersecurity, and data science. By employing predefined inclusion criteria and a methodical search strategy, a diverse selection of scholarly publications is analyzed.
@@ -10,5 +12,4 @@ Furthermore, this review sheds light on the methodological diversity present in 
 
 This SLR serves as a valuable resource for researchers, educators, and practitioners seeking a comprehensive understanding of the current landscape of computer science research. It not only summarizes recent developments but also offers guidance for future research directions, encouraging collaboration and innovation in this ever-evolving field.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

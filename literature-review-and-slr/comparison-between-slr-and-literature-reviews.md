@@ -1,4 +1,4 @@
-# Comparison between SLR and Literature Reviews
+# 🆚 Comparison between SLR and Literature Reviews
 
 <figure><img src="http://s3.amazonaws.com/libapps/accounts/32893/images/SRvsMAvsR.JPG" alt="" width="563"><figcaption></figcaption></figure>
 
@@ -16,5 +16,4 @@ In the world of academic research, there are two main ways to dig into existing 
 
 These differences highlight how SLRs differ from traditional Literature Reviews in terms of their research objectives, methodology, and reporting standards. Researchers choose between these approaches based on the specific goals of their research and the depth of analysis required.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

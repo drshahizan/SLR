@@ -1,4 +1,4 @@
-# How to write a SLR
+# 🥳 How to write a SLR
 
 {% embed url="https://youtu.be/AKKyeOJkv-c?si=mH5FmZC8UyKW3WpJ" %}
 How To Write A Research Paper: Introduction
@@ -151,10 +151,10 @@ The first stage in carrying out a systematic literature review is to put togethe
 
 Your systematic review should include the following details:
 
-* the objectives of your project&#x20;
-* the specific methods and processes that you’ll use&#x20;
-* the eligibility criteria of the individual studies&#x20;
-* how you plan to extract data from individual studies&#x20;
+* the objectives of your project
+* the specific methods and processes that you’ll use
+* the eligibility criteria of the individual studies
+* how you plan to extract data from individual studies
 * which analyses you’re going to carry out
 
 </details>
@@ -175,5 +175,4 @@ The final stage of conducting a systematic literature review is interpreting and
 
 </details>
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

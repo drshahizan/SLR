@@ -1,4 +1,4 @@
-# Converting from LR to SLR
+# 🎊 Converting from LR to SLR
 
 Transforming a traditional Literature Review into a Systematic Literature Review (SLR) requires a structured approach to enhance rigor, objectivity, and transparency. Here's a step-by-step guide on how to make this conversion:
 
@@ -90,5 +90,4 @@ By following these steps, you can convert a traditional Literature Review into a
 
 By following these steps in the conversion process, the researcher transformed an initial Literature Review on IoT into a well-structured and rigorous Systematic Literature Review, enhancing the quality and credibility of their research synthesis in the field of IoT.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

@@ -1,4 +1,4 @@
-# Introduction
+# 🧠 Introduction
 
 {% hint style="info" %}
 **Definition:** A **systematic** **literature review** is a summary, analysis, and evaluation of all the existing research on a well-formulated and specific question.
@@ -42,7 +42,7 @@ _Importance of SLR:_
 
 The systematic literature review played a pivotal role in guiding the researchers' work, ensuring that their new web security mechanism was well-informed, innovative, and aligned with the current state of computer science research in the field of web security.
 
-### Others Case Studies:&#x20;
+### Others Case Studies:
 
 Systematic Literature Reviews (SLRs) are valuable in various scenarios within computer science research. Here are 10 case studies illustrating when SLRs should be used:
 
@@ -61,5 +61,4 @@ Systematic Literature Reviews (SLRs) are valuable in various scenarios within co
 
 In each of these case studies, conducting a systematic literature review is critical to ensuring that decisions and research directions are grounded in existing knowledge, best practices, and the current state of the field in computer science. SLRs provide a structured and evidence-based approach to gather and synthesize relevant information, making them invaluable in these scenarios.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

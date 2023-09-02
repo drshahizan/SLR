@@ -1,4 +1,4 @@
-# Understanding Systematic Literature Reviews
+# 🤹 Understanding Systematic Literature Reviews
 
 All academic projects should include a review of current literature in order to provide the Reader with sufficient context to understand the detail of the project itself. The purpose of a _systematic literature review_ (SLR) is very different, however. Instead of providing background information, an SLR treats a body of written material as a data source in its own right which it exploits to answer one or more defined research questions. Like any other research methods, an SLR needs to be carefully planned and executed so that the results of the research are credible.
 
@@ -42,5 +42,4 @@ As well as articles such as those cited above which provide explicit guidance on
 
     > Focusing on an urban-scale, this study systematically reviews 70 journal articles, published in the field of building energy performance forecasting between 2015 and 2018. The recent literature have been categorized according to five criteria: 1. Learning Method, 2. Building Type, 3. Energy Type, 4. Input Data, and 5. Time-scale.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)

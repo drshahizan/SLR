@@ -1,4 +1,4 @@
-# ChatGPT's Role in SLR
+# 🤠 ChatGPT's Role in SLR
 
 ChatGPT, OpenAI's advanced language model, can play a valuable role in the context of Systematic Literature Reviews (SLRs) in several ways:
 
@@ -57,5 +57,4 @@ While ChatGPT can be a valuable tool in the SLR process, it is crucial to exerci
 
 ChatGPT represents a significant advancement in natural language understanding and generation and has a wide range of applications in research, writing, and content generation across various domains. These resources provide valuable insights and practical demonstrations of how ChatGPT can be a valuable tool for researchers and writers.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
-![](https://hit.yhype.me/github/profile?user_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
