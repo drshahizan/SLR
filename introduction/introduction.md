@@ -6,6 +6,8 @@
 A systematic literature review (SLR) identifies, selects and critically appraises research in order to answer a clearly formulated question (Dewey, A. & Drahota, A. 2016). The systematic review should follow a clearly defined protocol or plan where the criteria is clearly stated before the review is conducted.
 {% endhint %}
 
+<figure><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Hierarchy_of_Evidence.png" alt="" width="563"><figcaption><p>A systematic review is the highest form of knowledge in science</p></figcaption></figure>
+
 ### SLR in Computer Science Research
 
 Systematic Literature Reviews (SLRs) are valuable in computer science research in several situations:
