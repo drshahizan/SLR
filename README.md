@@ -12,4 +12,15 @@ Furthermore, this review sheds light on the methodological diversity present in 
 
 This SLR serves as a valuable resource for researchers, educators, and practitioners seeking a comprehensive understanding of the current landscape of computer science research. It not only summarizes recent developments but also offers guidance for future research directions, encouraging collaboration and innovation in this ever-evolving field.
 
+A systematic literature review (SLR) is a method to synthesize scientific evidence on a specific research question in a transparent and rigorous way. It involves the following steps:
+
+* Define the research question and the scope of the review
+* Search for relevant studies using predefined keywords and databases
+* Select the primary studies based on predefined inclusion and exclusion criteria
+* Assess the quality and validity of the selected studies
+* Extract and synthesize the data from the studies
+* Report and disseminate the findings and implications of the review
+
+SLRs are widely used in medicine and other disciplines, but they are relatively new in computer science. They can help researchers to identify existing solutions, avoid bias, find research gaps, and inform future research directions.
+
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
