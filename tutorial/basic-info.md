@@ -15,23 +15,23 @@ A systematic literature review is a rigorous and transparent way of synthesizing
 ¹ [How to Write a Systematic Literature Review? - Online Assignment Expert](^1^/) \
 ² [How to write a systematic literature review \[9 steps\] - Paperpile](^5^/) \
 ³ [How to do a Structured Literature Review in computer science - NTNU](^3^/) \
-: [PICO Framework - Systematic Reviews - LibGuides at University of Melbourne](https://unimelb.libguides.com/c.php?g=402803\&p=2740210) \
+⁴ [PICO Framework - Systematic Reviews - LibGuides at University of Melbourne](https://unimelb.libguides.com/c.php?g=402803\&p=2740210) \
 ⁵ [Systematic Review Protocol Template](https://www.crd.york.ac.uk/prospero/documents/PROSPERO%20Protocol%20Template.pdf) \
 ⁶ [PRISMA-P Checklist](http://www.prisma-statement.org/documents/PRISMA-P-checklist.pdf) \
 ⁷ [PRISMA Flow Diagram](http://www.prisma-statement.org/documents/PRISMA%202009%20flow%20diagram.pdf) : [Covidence - Better systematic review management](https://www.covidence.org/) : [Critical Appraisal Tools - JBI](https://jbi.global/critical-appraisal-tools) : [Data Extraction and Management - Systematic Reviews - LibGuides at University of Melbourne](https://unimelb.libguides.com/c.php?g=402803\&p=2740214) : [Data Synthesis - Systematic Reviews - LibGuides at University of Melbourne](https://unimelb.libguides.com/c.php?g=402803\&p=2740215) : [PRISMA Statement](http://www.prisma-statement.org/) : [Publishing Your Review - Systematic Reviews - LibGuides at University of Melbourne](https://unimelb.libguides.com/c.php?g=402803\&p=2740217) : [Updating Your Review - Systematic Reviews - LibGuides at University of Melbourne](https://unimelb.libguides.com/c.php?g=402803\&p=2740218).
 
-**Source**:&#x20;
+**Source**:
 
-&#x20;(1) How to Write a Systematic Literature Review? - Online Assignment Expert. [https://www.myessaymate.com/blog/how-to-write-a-systematic-literature-review](https://www.myessaymate.com/blog/how-to-write-a-systematic-literature-review). \
-(2) . https://bing.com/search?q=how+to+write+a+systematic+literature+review+in+computer+science. \
-(3) How to do a Structured Literature Review in computer science - NTNU. https://research.idi.ntnu.no/aimasters/files/SLR\_HowTo2018.pdf. \
-(4) How to Write a Good Literature Review? | Baeldung on Computer Science. https://www.baeldung.com/cs/research-literature-review. \
-(5) How to write a systematic literature review \[9 steps] - Paperpile. https://paperpile.com/g/systematic-literature-review/. \
-(6) Systematic Review | Definition, Example & Guide - Scribbr. https://www.scribbr.com/methodology/systematic-review/. \
-(7) undefined. https://cgspace.cgiar.org/bitstream/handle/10568/114124/CGIAR%20Methodology%20for%20Systematic\_June%202021%20%281%29.pdf?sequence=1. \
-(8) How to Write a Systematic Literature Review? - Online Assignment Expert. https://www.myessaymate.com/blog/how-to-write-a-systematic-literature-review. \
-(9) How to write a systematic literature review \[9 steps] - Paperpile. https://paperpile.com/g/systematic-literature-review/. \
-(10) How to do a Structured Literature Review in computer science - NTNU. https://research.idi.ntnu.no/aimasters/files/SLR\_HowTo2018.pdf. \
-(11) en.wikipedia.org. https://en.wikipedia.org/wiki/Systematic\_review.
+(1) [How to Write a Systematic Literature Review? - Online Assignment Expert](https://www.myessaymate.com/blog/how-to-write-a-systematic-literature-review)
+(2) [https://bing.com/search?q=how+to+write+a+systematic+literature+review+in+computer+science](https://bing.com/search?q=how+to+write+a+systematic+literature+review+in+computer+science.) 
+(3) [How to do a Structured Literature Review in computer science - NTNU](https://research.idi.ntnu.no/aimasters/files/SLR\_HowTo2018.pdf)
+(4) [How to Write a Good Literature Review? | Baeldung on Computer Science](https://www.baeldung.com/cs/research-literature-review)
+(5) [How to write a systematic literature review:9 steps - Paperpile](https://paperpile.com/g/systematic-literature-review/)
+(6) [Systematic Review | Definition, Example & Guide - Scribbr](https://www.scribbr.com/methodology/systematic-review)
+(7) [undefined](https://cgspace.cgiar.org/bitstream/handle/10568/114124/CGIAR%20Methodology%20for%20Systematic\_June%202021%20%281%29.pdf?sequence=1)
+(8) [How to Write a Systematic Literature Review? - Online Assignment Expert](https://www.myessaymate.com/blog/how-to-write-a-systematic-literature-review)
+(9) [How to write a systematic literature review: 9 steps - Paperpile](https://paperpile.com/g/systematic-literature-review/)
+(10) [How to do a Structured Literature Review in computer science - NTNU](https://research.idi.ntnu.no/aimasters/files/SLR\_HowTo2018.pdf)
+(11) [en.wikipedia.org](https://en.wikipedia.org/wiki/Systematic\_review)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
