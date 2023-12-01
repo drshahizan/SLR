@@ -36,4 +36,4 @@
 
 ## Tutorial
 
-* [Basic info](info.md)
+* [Basic info](tutorial/info.md)
