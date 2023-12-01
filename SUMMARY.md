@@ -34,6 +34,6 @@
 * [🎥 Youtube](tools/youtube.md)
 * [☁ Store a SLR in a GitHub repository](tools/store-a-slr-in-a-github-repository.md)
 
-***
+## Tutorial
 
-* [Tutorial](tutorial.md)
+* [Basic info](info.md)
