@@ -1,8 +1,8 @@
-# sci-hub
+# 🔭 sci-hub
 
 {% embed url="https://sci-hub.st/" %}
 
-<figure><img src="../.gitbook/assets/image.png" alt="" width="375"><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt="" width="375"><figcaption></figcaption></figure>
 
 Sci-Hub is a website that provides free access to millions of research papers and books, without regard to copyright or paywalls. Sci-Hub was founded by Alexandra Elbakyan, a Kazakhstani programmer and activist, in 2011, with the mission of removing any barriers that prevent the widest possible distribution of knowledge in human society. Sci-Hub supports the open access movement in science, which advocates for free and unrestricted sharing of scientific publications and data.
 
