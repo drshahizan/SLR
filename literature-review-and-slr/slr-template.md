@@ -1,4 +1,4 @@
-# SLR Template
+# 📋 SLR Template
 
 A Systematic Literature Review (SLR) template is a structured framework used for conducting and documenting a systematic review of existing research studies on a specific topic or research question. Systematic literature reviews are commonly used in academic and research settings to provide a comprehensive and unbiased summary of the available literature on a particular subject. Here's a template for conducting a systematic literature review:
 
