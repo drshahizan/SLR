@@ -14,6 +14,7 @@
 
 * [📑 Literature Review](literature-review-and-slr/literature-review.md)
 * [🆚 Comparison between SLR and Literature Reviews](literature-review-and-slr/comparison-between-slr-and-literature-reviews.md)
+* [Review Descriptions](literature-review-and-slr/review-descriptions.md)
 * [ℹ Infographics](literature-review-and-slr/infographics.md)
 * [🎊 Converting from LR to SLR](literature-review-and-slr/converting-from-lr-to-slr.md)
 * [📋 SLR Template](literature-review-and-slr/slr-template.md)

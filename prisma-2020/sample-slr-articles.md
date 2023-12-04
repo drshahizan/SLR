@@ -16,7 +16,7 @@ Systematic Literature Reviews (SLRs) are a cornerstone of rigorous academic rese
     These references provide essential guidance for researchers embarking on systematic reviews. They include seminal papers explaining the PRISMA statement—a crucial framework for transparently reporting systematic reviews and meta-analyses. These resources are indispensable for maintaining high research standards.
 5.  [**Page MJ, Moher D, Bossuyt P, et al. PRISMA 2020 explanation and elaboration: updated guidance and exemplars for reporting systematic reviews.**](https://osf.io/preprints/metaarxiv/gwdhk/)
 
-    This article provides an updated and detailed explanation of the PRISMA 2020 guidelines, offering valuable guidance and examples for researchers reporting systematic reviews.\\
+    This article provides an updated and detailed explanation of the PRISMA 2020 guidelines, offering valuable guidance and examples for researchers reporting systematic reviews.
 6.  [**Rethlefsen M, Kirtley S, Waffenschmidt S, et al. PRISMA-S: An Extension to the PRISMA Statement for Reporting Literature Searches in Systematic Reviews.**](https://osf.io/sfc38/)
 
     PRISMA-S is an extension to the PRISMA statement, focusing on reporting the literature search process within systematic reviews. This document provides guidance on transparently reporting literature searches.\\
