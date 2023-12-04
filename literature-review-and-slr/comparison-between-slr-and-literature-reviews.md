@@ -14,6 +14,10 @@ In the world of academic research, there are two main ways to dig into existing 
 | **Reporting Standards**          | Reporting standards may vary, with no specific guidelines for documentation.                                                                                     | Adheres to established reporting standards (e.g., PRISMA) to ensure transparency and reproducibility.                                                                  |
 | **Bias and Reproducibility**     | May be susceptible to selection bias and subjectivity.                                                                                                           | Aims to minimize bias through rigorous methodology, enhancing reproducibility and transparency.                                                                        |
 
+Systematic reviews and literature reviews are easy to get mixed up but are two very different types of research. Use the chart below to consider and confirm what type of review you are interested in.
+
+![Chart comparing systematic review to literature review (Kysh, Lynn, 2013).](https://s3.amazonaws.com/libapps/accounts/97608/images/systematic\_review\_vs\_literature\_review.png)
+
 These differences highlight how SLRs differ from traditional Literature Reviews in terms of their research objectives, methodology, and reporting standards. Researchers choose between these approaches based on the specific goals of their research and the depth of analysis required.
 
 {% embed url="https://youtu.be/oL-JFt_02H8?si=cAUZiPO_RYoqyere" %}
