@@ -9,6 +9,5 @@
 * [Template for Systematic Literature Review](../materials/Systematic%20Literature%20Review.pdf)
 * [Systematic Literature Review in Computer Science: A Practical Guide](../materials/SystematicLiteratureReviewinComputerScience-APracticalGuide.pdf)
 * [Writing a Systematic Literature Review: Resources for Students and Trainees](../materials/Writing-a-Systematic-Literature-Review.pdf)
-stainable-entrepreneurship-a-systematic-review-of-academic-research.pdf)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
