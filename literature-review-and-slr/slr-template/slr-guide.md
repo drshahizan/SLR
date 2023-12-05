@@ -49,7 +49,7 @@
 * Do not delete the original results; keep different files for original and selected papers
 * Screening order: title, abstract/keywords, full text
 * Once the articles are selected by title and abstract/keywords, look for the full text
-* The full text can be searched on the [library website](https://library.universityofgalway.ie)
+* The full text can be searched on the library website
 * First, take a quick look at the papers (headings, pictures, tables, conclusions). If the paper is indeed interesting, read it more carefully
 
 ## 7. Download the selected papers
