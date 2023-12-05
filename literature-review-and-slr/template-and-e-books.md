@@ -11,6 +11,7 @@ Literature Review: A Guide for Healthcare Researchers, Practitioners and Student
 - [Writing a Systematic Literature Review: Resources for Students and Trainees](https://github.com/drshahizan/SLR/blob/main/materials/Writing-a-Systematic-Literature-Review.pdf)
 - [Doing a Systematic Review
 A Student's Guide](https://github.com/drshahizan/SLR/blob/main/materials/doing-a-systematic-review-a-students-guide.epub)
-- [How to Perform a Systematic Literature Review: A guide for Healthcare, Reseacher, Practitioners and Students]()
+- [How to Perform a Systematic Literature Review: A guide for Healthcare, Reseachers, Practitioners and Students](https://github.com/drshahizan/SLR/blob/main/materials/how-to-perform-a-systematic-literature-review-a-guide-for-healthcare.pdf)
+- [Sustainable Entrepreneurship: A systematic review of Academic Research](https://github.com/drshahizan/SLR/blob/main/materials/sustainable-entrepreneurship-a-systematic-review-of-academic-research.pdf)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
