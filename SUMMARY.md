@@ -17,6 +17,7 @@
 * [ℹ Infographics](literature-review-and-slr/infographics.md)
 * [🎊 Converting from LR to SLR](literature-review-and-slr/converting-from-lr-to-slr.md)
 * [📋 SLR Template](literature-review-and-slr/slr-template.md)
+* [SLR Guide](literature-review-and-slr/slr-guide.md)
 * [🔦 Review Descriptions](literature-review-and-slr/review-descriptions.md)
 
 ## PRISMA 2020
