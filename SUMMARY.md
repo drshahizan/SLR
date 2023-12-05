@@ -43,5 +43,5 @@
 
 ## Tutorial
 
-* [Basic info](tutorial/basic-info.md)
-* [Exercise](tutorial/tutorial-1.md)
+* [🎻 Basic info](tutorial/basic-info.md)
+* [👨🌾 Exercise](tutorial/tutorial-1.md)
