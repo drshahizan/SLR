@@ -8,5 +8,10 @@ Guides on how to use Rayyan, a tool for systematic literature reviews.
 * [Rayyan Systematic Review Tutorial](https://help.rayyan.ai/hc/en-us/articles/4412340931345-Rayyan-Systematic-Review-Tutorial-): This is a video tutorial that shows you how to create a review, upload references, screen articles, and use Rayyan’s features such as PICO highlights and filters, relevance ranking, and workbench facets[1](https://help.rayyan.ai/hc/en-us/articles/4412340931345-Rayyan-Systematic-Review-Tutorial-).
 * [How-To – Rayyan Help Center](https://help.rayyan.ai/hc/en-us/categories/4407666756113-How-To): This is a section of the Rayyan Help Center that has articles on how to use Rayyan for various tasks, such as managing teams, creating reviews, importing references, detecting duplicates, screening articles, and exporting reviews[2](https://help.rayyan.ai/hc/en-us/categories/4407666756113-How-To).
 
+{% embed url="https://youtu.be/xYNojefmQkY?si=J7nlrzCJd4loui0D" %}
 
+{% embed url="https://youtu.be/1YWABilWWIg?si=84XPbJ7MbJri4lXa" %}
 
+{% embed url="https://youtu.be/P6xfppxDxE4?si=yukQPI958QPEsy4X" %}
+
+{% embed url="https://youtu.be/kFBgqYYb74g?si=o1mN5z-8J2Ef2oAs" %}

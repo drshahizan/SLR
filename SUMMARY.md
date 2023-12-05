@@ -33,6 +33,7 @@
 
 * [🛠 Tools and Software for SLR](tools/tools-and-software-for-slr/README.md)
   * [Rayyan](tools/tools-and-software-for-slr/rayyan.md)
+* [SR Accelerator](tools/sr-accelerator.md)
 * [🤠 ChatGPT's Role in SLR](tools/chatgpts-role-in-slr.md)
 * [🎥 Youtube](tools/youtube.md)
 * [☁ Store a SLR in a GitHub repository](tools/store-a-slr-in-a-github-repository.md)
