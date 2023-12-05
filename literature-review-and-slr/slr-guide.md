@@ -1,2 +1,0 @@
-# SLR Guide
-
