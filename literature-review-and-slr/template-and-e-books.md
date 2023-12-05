@@ -1,6 +1,5 @@
 # Template & E-books
 
-* How to Perform a Systematic Literature Review: A Guide for Healthcare Researchers, Practitioners and Students
 * [How to Write a Systematic Review: A step by step guide](../materials/C\_GENERAL\_Yannascoli.pdf)
 * [How to do a Systematic Literature Review](../materials/How\_to\_do\_a\_systematic\_literature\_review.pdf)
 * [How to do a Structured Literature Review in Computer Science](../materials/SLR\_HowTo2018.pdf)
