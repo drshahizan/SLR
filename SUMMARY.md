@@ -19,7 +19,7 @@
 * [📋 SLR Template](literature-review-and-slr/slr-template/README.md)
   * [🥘 Systematic Literature Review Guide](literature-review-and-slr/slr-template/slr-guide.md)
 * [🔦 Review Descriptions](literature-review-and-slr/review-descriptions.md)
-* [Template & E-books](literature-review-and-slr/template-and-e-books.md)
+* [E-books](literature-review-and-slr/template-and-e-books.md)
 
 ## PRISMA 2020
 
