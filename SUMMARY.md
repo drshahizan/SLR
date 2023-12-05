@@ -44,4 +44,4 @@
 ## Tutorial
 
 * [Basic info](tutorial/basic-info.md)
-* [Tutorial 1](tutorial/tutorial-1.md)
+* [Exercise](tutorial/tutorial-1.md)
