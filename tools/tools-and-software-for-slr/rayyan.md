@@ -14,4 +14,6 @@ Guides on how to use Rayyan, a tool for systematic literature reviews.
 
 {% embed url="https://youtu.be/P6xfppxDxE4?si=yukQPI958QPEsy4X" %}
 
+{% embed url="https://youtu.be/nE1oeZX2x-g?si=vDt6_lqENkjuZvek" %}
+
 {% embed url="https://youtu.be/kFBgqYYb74g?si=o1mN5z-8J2Ef2oAs" %}
