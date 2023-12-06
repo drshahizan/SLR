@@ -12,3 +12,11 @@ The SRA project is based at the Bond University Institute for Evidence-Based Hea
 * Hotkey: A tool that can assign keyboard shortcuts to common actions in EndNote, such as marking references as included or excluded, adding notes, or moving references to different groups. This can speed up the screening process and reduce mouse clicks.
 
 You can learn more about the SRA project and its tools by visiting the official website [here](https://www.sr-accelerator.com/). You can also watch a video tutorial [here](https://bond.edu.au/iebh/systematic-review-accelerator-sra) or read a resource review article [here](http://systematicreviewtools.com/tool.php?ref=Systematic%20Review%20Accelerator).
+
+{% embed url="https://youtu.be/F5Cvt91kXzc?si=HtMOcbxPtAYE1cSd" %}
+Systematic Review Accelerator (SRA): introduction and short demo
+{% endembed %}
+
+{% embed url="https://youtu.be/7DGzqI1YRng?si=aeogShvMsX5QXMdj" %}
+
+{% embed url="https://youtu.be/70LzeWi0AiM?si=hCSmPmoQ-nWFCBSr" %}
