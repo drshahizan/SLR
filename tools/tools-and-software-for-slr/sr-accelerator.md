@@ -20,3 +20,5 @@ Systematic Review Accelerator (SRA): introduction and short demo
 {% embed url="https://youtu.be/7DGzqI1YRng?si=aeogShvMsX5QXMdj" %}
 
 {% embed url="https://youtu.be/70LzeWi0AiM?si=hCSmPmoQ-nWFCBSr" %}
+
+{% embed url="https://youtu.be/tza7hSpEdBg?si=XIhB-WdCCSdNLBTU" %}
