@@ -1,4 +1,4 @@
-# Basic info
+# 🎻 Basic info
 
 A systematic literature review is a rigorous and transparent way of synthesizing the existing knowledge on a specific topic. It can help you identify gaps, evaluate the quality, and compare the results of different studies. To write a systematic literature review, you need to follow a clear and reproducible protocol that consists of several steps. Here is a possible outline of the steps¹²³:
 

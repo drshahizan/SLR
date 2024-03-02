@@ -1,4 +1,4 @@
-# Exercise
+# 👨‍🌾 Exercise
 
 A systematic literature review is a rigorous and transparent method of summarizing and synthesizing the existing research on a specific topic or question in computer science. It can help you to identify, appraise, and compare the relevant studies, and to draw conclusions and implications from them.
 
