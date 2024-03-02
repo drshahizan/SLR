@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/slr1.png" alt=""><figcaption></figcaption></figure>
 
-Computer science is a dynamic and rapidly evolving field at the forefront of technological advancement. This systematic literature review (SLR) offers a comprehensive analysis of recent research in computer science, providing insights into the state of the field as of 2023.
+Computer science is a dynamic and rapidly evolving field at the forefront of technological advancement. This systematic literature review (SLR) offers a comprehensive analysis of recent research in computer science, providing insights into the state of the field as of 2024.
 
 Utilizing a systematic approach, this review encompasses a wide spectrum of computer science subdisciplines, including artificial intelligence, machine learning, software engineering, cybersecurity, and data science. By employing predefined inclusion criteria and a methodical search strategy, a diverse selection of scholarly publications is analyzed.
 
