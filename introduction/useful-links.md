@@ -1,6 +1,8 @@
 # 🔗 Useful links
 
-{% embed url="https://bsj.uobaghdad.edu.iq/index.php/BSJ/onlinefirst/view/8544" %}
+{% file src="../.gitbook/assets/2024_IJCNDS-144802mso.pdf" %}
+
+{% embed url="https://bsj.uobaghdad.edu.iq/index.php/BSJ/article/view/8544" %}
 
 {% embed url="https://peerj.com/articles/cs-661/" %}
 
