@@ -2,6 +2,8 @@
 
 {% file src="../.gitbook/assets/2024_IJCNDS-144802mso.pdf" %}
 
+{% embed url="https://journalofbigdata.springeropen.com/articles/10.1186/s40537-024-00892-y" %}
+
 {% embed url="https://bsj.uobaghdad.edu.iq/index.php/BSJ/article/view/8544" %}
 
 {% embed url="https://peerj.com/articles/cs-661/" %}
