@@ -21,11 +21,9 @@ Here are some key areas covered by the PRISMA 2020 Checklist:
 The PRISMA 2020 Checklist is a valuable resource for authors and researchers undertaking systematic reviews and meta-analyses, as it helps ensure that their research is transparent, reproducible, and of high quality. Adhering to these guidelines enhances the clarity and reliability of systematic review publications, ultimately contributing to evidence-based decision-making in various fields of research.
 
 {% embed url="http://prisma-statement.org/documents/PRISMA_2020_checklist.pdf" %}
-[PRISMA 2020 Checklist](http://prisma-statement.org/documents/PRISMA\_2020\_checklist.pdf)
+[PRISMA 2020 Checklist](https://www.prisma-statement.org/s/PRISMA_2020_checklist-ez8t.docx)
 {% endembed %}
 
 {% embed url="http://prisma-statement.org/documents/PRISMA_2020_expanded_checklist.pdf" %}
-[PRISMA 2020 Expanded Checklist](http://prisma-statement.org/documents/PRISMA\_2020\_expanded\_checklist.pdf)
-{% endembed %}
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user_id=81284918)
