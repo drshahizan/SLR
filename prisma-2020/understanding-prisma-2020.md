@@ -29,17 +29,17 @@ Researchers can choose the appropriate PRISMA 2020 flow diagram version based on
 
 The flow diagram depicts the flow of information through the different phases of a systematic review. It maps out the number of records identified, included and excluded, and the reasons for exclusions. Different templates are available depending on the type of review (new or updated) and sources used to identify studies.
 
-1. [PRISMA 2020 flow diagram for new systematic reviews which included searches of databases and registers only](http://prisma-statement.org/documents/PRISMA\_2020\_flow\_diagram\_new\_SRs\_v1.docx)
-2. [PRISMA 2020 flow diagram for new systematic reviews which included searches of databases, registers and other sources](http://prisma-statement.org/documents/PRISMA\_2020\_flow\_diagram\_new\_SRs\_v2.docx)
-3. [PRISMA 2020 flow diagram for updated systematic reviews which included searches of databases and registers only](http://prisma-statement.org/documents/PRISMA\_2020\_flow\_diagram\_updated\_SRs\_v1.docx)
-4. [PRISMA 2020 flow diagram for updated systematic reviews which included searches of databases, registers and other sources](http://prisma-statement.org/documents/PRISMA\_2020\_flow\_diagram\_updated\_SRs\_v2.docx)
+1. [PRISMA 2020 flow diagram for new systematic reviews which included searches of databases and registers only](https://www.prisma-statement.org/s/PRISMA_2020_flow_diagram_new_SRs_v1-lml8.docx)
+2. [PRISMA 2020 flow diagram for new systematic reviews which included searches of databases, registers and other sources](https://www.prisma-statement.org/s/PRISMA_2020_flow_diagram_new_SRs_v2-t3jp.docx)
+3. [PRISMA 2020 flow diagram for updated systematic reviews which included searches of databases and registers only](https://www.prisma-statement.org/s/PRISMA_2020_flow_diagram_updated_SRs_v1-f8ly.docx)
+4. [PRISMA 2020 flow diagram for updated systematic reviews which included searches of databases, registers and other sources](https://www.prisma-statement.org/s/PRISMA_2020_flow_diagram_updated_SRs_v2-dbrh.docx)
 
 ### Useful links
 
 {% embed url="https://onlinelibrary.wiley.com/doi/epdf/10.1002/cl2.1230" %}
 
-{% embed url="https://github.com/prisma-flowdiagram/PRISMA2020" %}
+{% @github-files/github-code-block %}
 
 {% embed url="https://www.eshackathon.org/software/PRISMA2020.html" %}
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user\_id=81284918)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan\&labelColor=%23697689\&countColor=%23555555\&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan) ![](https://hit.yhype.me/github/profile?user_id=81284918)
